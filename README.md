@@ -26,13 +26,9 @@ _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener 
 para visualizar el codigo ingresar al archivo: 
 - Form1.cs
 ```
-
-
-_el proyecto ya esta compilado_
-
 ## Ejecutando las pruebas ⚙️
 
-_el proyecto ya esta compiladosolo es necesario ingresar a la siguente ruta_
+_el proyecto ya esta compilado solo es necesario ingresar a la siguente ruta_
 
 ```
 CalculadoraParaMamposteria\bin\Debug
