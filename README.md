@@ -60,4 +60,4 @@ Este proyecto está bajo la Licencia (JDsoftware).
 * Invitame una cerveza 🍺 o un café ☕. 
 
 ---
-⌨️ con ❤️ por JD 😊
+⌨️ con ❤️ por JDevil 😊
