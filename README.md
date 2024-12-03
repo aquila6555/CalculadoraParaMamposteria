@@ -58,6 +58,6 @@ Este proyecto está bajo la Licencia (JDsoftware).
 * Comenta a otros sobre este proyecto 📢
 * contacto a : aquila6555@gmail.com 📧
 * Invitame una cerveza 🍺 o un café ☕. 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X016YGCU)
 ---
 ⌨️ con ❤️ por JDevil 😊
